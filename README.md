@@ -1,4 +1,10 @@
 vagrant-node-0.11
 =================
 
-Vagrant with Node 0.11 on it
+A Vagrant box with NodeJS 0.11 on it.
+
+Also contains:
+* redis
+* mongodb
+* g++
+* htop
